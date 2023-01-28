@@ -1,0 +1,12 @@
+C:\Users\akazakovic\Downloads\Recognition-POC-Api\POCApi\POCApi.Core\bin\Debug\net6.0\POCApi.Core.deps.json
+C:\Users\akazakovic\Downloads\Recognition-POC-Api\POCApi\POCApi.Core\bin\Debug\net6.0\POCApi.Core.dll
+C:\Users\akazakovic\Downloads\Recognition-POC-Api\POCApi\POCApi.Core\bin\Debug\net6.0\POCApi.Core.pdb
+C:\Users\akazakovic\Downloads\Recognition-POC-Api\POCApi\POCApi.Core\obj\Debug\net6.0\POCApi.Core.csproj.AssemblyReference.cache
+C:\Users\akazakovic\Downloads\Recognition-POC-Api\POCApi\POCApi.Core\obj\Debug\net6.0\POCApi.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\akazakovic\Downloads\Recognition-POC-Api\POCApi\POCApi.Core\obj\Debug\net6.0\POCApi.Core.AssemblyInfoInputs.cache
+C:\Users\akazakovic\Downloads\Recognition-POC-Api\POCApi\POCApi.Core\obj\Debug\net6.0\POCApi.Core.AssemblyInfo.cs
+C:\Users\akazakovic\Downloads\Recognition-POC-Api\POCApi\POCApi.Core\obj\Debug\net6.0\POCApi.Core.csproj.CoreCompileInputs.cache
+C:\Users\akazakovic\Downloads\Recognition-POC-Api\POCApi\POCApi.Core\obj\Debug\net6.0\POCApi.Core.dll
+C:\Users\akazakovic\Downloads\Recognition-POC-Api\POCApi\POCApi.Core\obj\Debug\net6.0\refint\POCApi.Core.dll
+C:\Users\akazakovic\Downloads\Recognition-POC-Api\POCApi\POCApi.Core\obj\Debug\net6.0\POCApi.Core.pdb
+C:\Users\akazakovic\Downloads\Recognition-POC-Api\POCApi\POCApi.Core\obj\Debug\net6.0\ref\POCApi.Core.dll

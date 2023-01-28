@@ -1,0 +1,36 @@
+C:\Users\dmitrovic\OneDrive - ENDAVA\Desktop\projects\Project\Demo\Demo.Core\bin\Debug\net6.0\Demo.Core.deps.json
+C:\Users\dmitrovic\OneDrive - ENDAVA\Desktop\projects\Project\Demo\Demo.Core\bin\Debug\net6.0\Demo.Core.dll
+C:\Users\dmitrovic\OneDrive - ENDAVA\Desktop\projects\Project\Demo\Demo.Core\bin\Debug\net6.0\Demo.Core.pdb
+C:\Users\dmitrovic\OneDrive - ENDAVA\Desktop\projects\Project\Demo\Demo.Core\obj\Debug\net6.0\Demo.Core.csproj.AssemblyReference.cache
+C:\Users\dmitrovic\OneDrive - ENDAVA\Desktop\projects\Project\Demo\Demo.Core\obj\Debug\net6.0\Demo.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dmitrovic\OneDrive - ENDAVA\Desktop\projects\Project\Demo\Demo.Core\obj\Debug\net6.0\Demo.Core.AssemblyInfoInputs.cache
+C:\Users\dmitrovic\OneDrive - ENDAVA\Desktop\projects\Project\Demo\Demo.Core\obj\Debug\net6.0\Demo.Core.AssemblyInfo.cs
+C:\Users\dmitrovic\OneDrive - ENDAVA\Desktop\projects\Project\Demo\Demo.Core\obj\Debug\net6.0\Demo.Core.csproj.CoreCompileInputs.cache
+C:\Users\dmitrovic\OneDrive - ENDAVA\Desktop\projects\Project\Demo\Demo.Core\obj\Debug\net6.0\Demo.Core.dll
+C:\Users\dmitrovic\OneDrive - ENDAVA\Desktop\projects\Project\Demo\Demo.Core\obj\Debug\net6.0\refint\Demo.Core.dll
+C:\Users\dmitrovic\OneDrive - ENDAVA\Desktop\projects\Project\Demo\Demo.Core\obj\Debug\net6.0\Demo.Core.pdb
+C:\Users\dmitrovic\OneDrive - ENDAVA\Desktop\projects\Project\Demo\Demo.Core\obj\Debug\net6.0\ref\Demo.Core.dll
+C:\Users\akazakovic\Downloads\Project\Project\Demo\Demo.Core\bin\Debug\net6.0\Demo.Core.deps.json
+C:\Users\akazakovic\Downloads\Project\Project\Demo\Demo.Core\bin\Debug\net6.0\Demo.Core.dll
+C:\Users\akazakovic\Downloads\Project\Project\Demo\Demo.Core\bin\Debug\net6.0\Demo.Core.pdb
+C:\Users\akazakovic\Downloads\Project\Project\Demo\Demo.Core\obj\Debug\net6.0\Demo.Core.csproj.AssemblyReference.cache
+C:\Users\akazakovic\Downloads\Project\Project\Demo\Demo.Core\obj\Debug\net6.0\Demo.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\akazakovic\Downloads\Project\Project\Demo\Demo.Core\obj\Debug\net6.0\Demo.Core.AssemblyInfoInputs.cache
+C:\Users\akazakovic\Downloads\Project\Project\Demo\Demo.Core\obj\Debug\net6.0\Demo.Core.AssemblyInfo.cs
+C:\Users\akazakovic\Downloads\Project\Project\Demo\Demo.Core\obj\Debug\net6.0\Demo.Core.csproj.CoreCompileInputs.cache
+C:\Users\akazakovic\Downloads\Project\Project\Demo\Demo.Core\obj\Debug\net6.0\Demo.Core.dll
+C:\Users\akazakovic\Downloads\Project\Project\Demo\Demo.Core\obj\Debug\net6.0\refint\Demo.Core.dll
+C:\Users\akazakovic\Downloads\Project\Project\Demo\Demo.Core\obj\Debug\net6.0\Demo.Core.pdb
+C:\Users\akazakovic\Downloads\Project\Project\Demo\Demo.Core\obj\Debug\net6.0\ref\Demo.Core.dll
+C:\Users\akazakovic\Downloads\Recognition-POC-Api\Demo\Demo.Core\obj\Debug\net6.0\Demo.Core.csproj.AssemblyReference.cache
+C:\Users\akazakovic\Downloads\Recognition-POC-Api\Demo\Demo.Core\obj\Debug\net6.0\Demo.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\akazakovic\Downloads\Recognition-POC-Api\Demo\Demo.Core\obj\Debug\net6.0\Demo.Core.AssemblyInfoInputs.cache
+C:\Users\akazakovic\Downloads\Recognition-POC-Api\Demo\Demo.Core\obj\Debug\net6.0\Demo.Core.AssemblyInfo.cs
+C:\Users\akazakovic\Downloads\Recognition-POC-Api\Demo\Demo.Core\obj\Debug\net6.0\Demo.Core.csproj.CoreCompileInputs.cache
+C:\Users\akazakovic\Downloads\Recognition-POC-Api\Demo\Demo.Core\obj\Debug\net6.0\Demo.Core.dll
+C:\Users\akazakovic\Downloads\Recognition-POC-Api\Demo\Demo.Core\obj\Debug\net6.0\refint\Demo.Core.dll
+C:\Users\akazakovic\Downloads\Recognition-POC-Api\Demo\Demo.Core\obj\Debug\net6.0\Demo.Core.pdb
+C:\Users\akazakovic\Downloads\Recognition-POC-Api\Demo\Demo.Core\bin\Debug\net6.0\Demo.Core.deps.json
+C:\Users\akazakovic\Downloads\Recognition-POC-Api\Demo\Demo.Core\bin\Debug\net6.0\Demo.Core.dll
+C:\Users\akazakovic\Downloads\Recognition-POC-Api\Demo\Demo.Core\bin\Debug\net6.0\Demo.Core.pdb
+C:\Users\akazakovic\Downloads\Recognition-POC-Api\Demo\Demo.Core\obj\Debug\net6.0\ref\Demo.Core.dll
