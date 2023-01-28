@@ -1,0 +1,51 @@
+C:\Users\dmitrovic\OneDrive - ENDAVA\Desktop\projects\Project\Demo\Demo.Infrastructure\bin\Debug\net6.0\Demo.Infrastructure.deps.json
+C:\Users\dmitrovic\OneDrive - ENDAVA\Desktop\projects\Project\Demo\Demo.Infrastructure\bin\Debug\net6.0\Demo.Infrastructure.runtimeconfig.json
+C:\Users\dmitrovic\OneDrive - ENDAVA\Desktop\projects\Project\Demo\Demo.Infrastructure\bin\Debug\net6.0\Demo.Infrastructure.dll
+C:\Users\dmitrovic\OneDrive - ENDAVA\Desktop\projects\Project\Demo\Demo.Infrastructure\bin\Debug\net6.0\Demo.Infrastructure.pdb
+C:\Users\dmitrovic\OneDrive - ENDAVA\Desktop\projects\Project\Demo\Demo.Infrastructure\bin\Debug\net6.0\Demo.Core.dll
+C:\Users\dmitrovic\OneDrive - ENDAVA\Desktop\projects\Project\Demo\Demo.Infrastructure\bin\Debug\net6.0\Demo.Core.pdb
+C:\Users\dmitrovic\OneDrive - ENDAVA\Desktop\projects\Project\Demo\Demo.Infrastructure\obj\Debug\net6.0\Demo.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\dmitrovic\OneDrive - ENDAVA\Desktop\projects\Project\Demo\Demo.Infrastructure\obj\Debug\net6.0\Demo.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dmitrovic\OneDrive - ENDAVA\Desktop\projects\Project\Demo\Demo.Infrastructure\obj\Debug\net6.0\Demo.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\dmitrovic\OneDrive - ENDAVA\Desktop\projects\Project\Demo\Demo.Infrastructure\obj\Debug\net6.0\Demo.Infrastructure.AssemblyInfo.cs
+C:\Users\dmitrovic\OneDrive - ENDAVA\Desktop\projects\Project\Demo\Demo.Infrastructure\obj\Debug\net6.0\Demo.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\dmitrovic\OneDrive - ENDAVA\Desktop\projects\Project\Demo\Demo.Infrastructure\obj\Debug\net6.0\Demo.Infrastructure.csproj.CopyComplete
+C:\Users\dmitrovic\OneDrive - ENDAVA\Desktop\projects\Project\Demo\Demo.Infrastructure\obj\Debug\net6.0\Demo.Infrastructure.dll
+C:\Users\dmitrovic\OneDrive - ENDAVA\Desktop\projects\Project\Demo\Demo.Infrastructure\obj\Debug\net6.0\refint\Demo.Infrastructure.dll
+C:\Users\dmitrovic\OneDrive - ENDAVA\Desktop\projects\Project\Demo\Demo.Infrastructure\obj\Debug\net6.0\Demo.Infrastructure.pdb
+C:\Users\dmitrovic\OneDrive - ENDAVA\Desktop\projects\Project\Demo\Demo.Infrastructure\obj\Debug\net6.0\Demo.Infrastructure.genruntimeconfig.cache
+C:\Users\dmitrovic\OneDrive - ENDAVA\Desktop\projects\Project\Demo\Demo.Infrastructure\obj\Debug\net6.0\ref\Demo.Infrastructure.dll
+C:\Users\akazakovic\Downloads\Project\Project\Demo\Demo.Infrastructure\bin\Debug\net6.0\Demo.Infrastructure.deps.json
+C:\Users\akazakovic\Downloads\Project\Project\Demo\Demo.Infrastructure\bin\Debug\net6.0\Demo.Infrastructure.runtimeconfig.json
+C:\Users\akazakovic\Downloads\Project\Project\Demo\Demo.Infrastructure\bin\Debug\net6.0\Demo.Infrastructure.dll
+C:\Users\akazakovic\Downloads\Project\Project\Demo\Demo.Infrastructure\bin\Debug\net6.0\Demo.Infrastructure.pdb
+C:\Users\akazakovic\Downloads\Project\Project\Demo\Demo.Infrastructure\bin\Debug\net6.0\Demo.Core.dll
+C:\Users\akazakovic\Downloads\Project\Project\Demo\Demo.Infrastructure\bin\Debug\net6.0\Demo.Core.pdb
+C:\Users\akazakovic\Downloads\Project\Project\Demo\Demo.Infrastructure\obj\Debug\net6.0\Demo.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\akazakovic\Downloads\Project\Project\Demo\Demo.Infrastructure\obj\Debug\net6.0\Demo.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\akazakovic\Downloads\Project\Project\Demo\Demo.Infrastructure\obj\Debug\net6.0\Demo.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\akazakovic\Downloads\Project\Project\Demo\Demo.Infrastructure\obj\Debug\net6.0\Demo.Infrastructure.AssemblyInfo.cs
+C:\Users\akazakovic\Downloads\Project\Project\Demo\Demo.Infrastructure\obj\Debug\net6.0\Demo.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\akazakovic\Downloads\Project\Project\Demo\Demo.Infrastructure\obj\Debug\net6.0\Demo.Infrastructure.csproj.CopyComplete
+C:\Users\akazakovic\Downloads\Project\Project\Demo\Demo.Infrastructure\obj\Debug\net6.0\Demo.Infrastructure.dll
+C:\Users\akazakovic\Downloads\Project\Project\Demo\Demo.Infrastructure\obj\Debug\net6.0\refint\Demo.Infrastructure.dll
+C:\Users\akazakovic\Downloads\Project\Project\Demo\Demo.Infrastructure\obj\Debug\net6.0\Demo.Infrastructure.pdb
+C:\Users\akazakovic\Downloads\Project\Project\Demo\Demo.Infrastructure\obj\Debug\net6.0\Demo.Infrastructure.genruntimeconfig.cache
+C:\Users\akazakovic\Downloads\Project\Project\Demo\Demo.Infrastructure\obj\Debug\net6.0\ref\Demo.Infrastructure.dll
+C:\Users\akazakovic\Downloads\Recognition-POC-Api\Demo\Demo.Infrastructure\bin\Debug\net6.0\Demo.Infrastructure.deps.json
+C:\Users\akazakovic\Downloads\Recognition-POC-Api\Demo\Demo.Infrastructure\bin\Debug\net6.0\Demo.Infrastructure.runtimeconfig.json
+C:\Users\akazakovic\Downloads\Recognition-POC-Api\Demo\Demo.Infrastructure\bin\Debug\net6.0\Demo.Infrastructure.dll
+C:\Users\akazakovic\Downloads\Recognition-POC-Api\Demo\Demo.Infrastructure\bin\Debug\net6.0\Demo.Infrastructure.pdb
+C:\Users\akazakovic\Downloads\Recognition-POC-Api\Demo\Demo.Infrastructure\bin\Debug\net6.0\Demo.Core.dll
+C:\Users\akazakovic\Downloads\Recognition-POC-Api\Demo\Demo.Infrastructure\bin\Debug\net6.0\Demo.Core.pdb
+C:\Users\akazakovic\Downloads\Recognition-POC-Api\Demo\Demo.Infrastructure\obj\Debug\net6.0\Demo.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\akazakovic\Downloads\Recognition-POC-Api\Demo\Demo.Infrastructure\obj\Debug\net6.0\Demo.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\akazakovic\Downloads\Recognition-POC-Api\Demo\Demo.Infrastructure\obj\Debug\net6.0\Demo.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\akazakovic\Downloads\Recognition-POC-Api\Demo\Demo.Infrastructure\obj\Debug\net6.0\Demo.Infrastructure.AssemblyInfo.cs
+C:\Users\akazakovic\Downloads\Recognition-POC-Api\Demo\Demo.Infrastructure\obj\Debug\net6.0\Demo.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\akazakovic\Downloads\Recognition-POC-Api\Demo\Demo.Infrastructure\obj\Debug\net6.0\Demo.Infrastructure.csproj.CopyComplete
+C:\Users\akazakovic\Downloads\Recognition-POC-Api\Demo\Demo.Infrastructure\obj\Debug\net6.0\Demo.Infrastructure.dll
+C:\Users\akazakovic\Downloads\Recognition-POC-Api\Demo\Demo.Infrastructure\obj\Debug\net6.0\refint\Demo.Infrastructure.dll
+C:\Users\akazakovic\Downloads\Recognition-POC-Api\Demo\Demo.Infrastructure\obj\Debug\net6.0\Demo.Infrastructure.pdb
+C:\Users\akazakovic\Downloads\Recognition-POC-Api\Demo\Demo.Infrastructure\obj\Debug\net6.0\Demo.Infrastructure.genruntimeconfig.cache
+C:\Users\akazakovic\Downloads\Recognition-POC-Api\Demo\Demo.Infrastructure\obj\Debug\net6.0\ref\Demo.Infrastructure.dll
