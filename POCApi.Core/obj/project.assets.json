@@ -4092,11 +4092,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\akazakovic\\Downloads\\Recognition-POC-Api\\POCApi\\POCApi.Core\\POCApi.Core.csproj",
+      "projectUniqueName": "C:\\Users\\akazakovic\\Downloads\\RecognitionApi\\POCApi.Core\\POCApi.Core.csproj",
       "projectName": "POCApi.Core",
-      "projectPath": "C:\\Users\\akazakovic\\Downloads\\Recognition-POC-Api\\POCApi\\POCApi.Core\\POCApi.Core.csproj",
+      "projectPath": "C:\\Users\\akazakovic\\Downloads\\RecognitionApi\\POCApi.Core\\POCApi.Core.csproj",
       "packagesPath": "C:\\Users\\akazakovic\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\akazakovic\\Downloads\\Recognition-POC-Api\\POCApi\\POCApi.Core\\obj\\",
+      "outputPath": "C:\\Users\\akazakovic\\Downloads\\RecognitionApi\\POCApi.Core\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\akazakovic\\AppData\\Roaming\\NuGet\\NuGet.Config",

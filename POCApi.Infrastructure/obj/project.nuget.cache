@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "n2fcSHi9TKHj5U0A66I7hHA5rFZSjMSz5wA881qBdmecWxS312hBysSgoaU1gv29NBiSXC67eGJx2sR70JPeBg==",
+  "dgSpecHash": "mdZmr/mkqsM19vEouC4Ufk6iVk1TNyU+tbsiZAyRVhSL6+87UuzJsCLvhqASXAvjTA1IVqV+siLlxZhF4jYgAw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\akazakovic\\Downloads\\Recognition-POC-Api\\POCApi\\POCApi.Infrastructure\\POCApi.Infrastructure.csproj",
+  "projectFilePath": "C:\\Users\\akazakovic\\Downloads\\RecognitionApi\\POCApi.Infrastructure\\POCApi.Infrastructure.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\akazakovic\\.nuget\\packages\\awssdk.core\\3.7.12.23\\awssdk.core.3.7.12.23.nupkg.sha512",
     "C:\\Users\\akazakovic\\.nuget\\packages\\awssdk.s3\\3.7.9.41\\awssdk.s3.3.7.9.41.nupkg.sha512",

@@ -3,6 +3,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
+using Microsoft.Extensions.Configuration;
 using POCApi.Core.Entities;
 using POCApi.Core.Generic;
 using POCApi.Core.Interfaces;
@@ -15,11 +16,13 @@ namespace POCApi.Core.DomainServices
     {
         private readonly ICompartmentPickRepository _compartmentPickRepository;
         private readonly IUnitOfWork _unitOfWork;
+        private IConfiguration _configuration;
 
-        public CompartmentPickService(ICompartmentPickRepository compartmentPickRepository, IUnitOfWork unitOfWork)
+        public CompartmentPickService(ICompartmentPickRepository compartmentPickRepository, IUnitOfWork unitOfWork, IConfiguration configuration)
         {
             _unitOfWork = unitOfWork;
             _compartmentPickRepository = compartmentPickRepository;
+            _configuration = configuration;
         }
         public async Task<CompartmentPick> Add(CompartmentPick compartmentPick)
         {
@@ -68,9 +71,10 @@ namespace POCApi.Core.DomainServices
             return (picks?.Count > 0) ? picks.Last() : null;
         }
 
-        public async Task<CompartmentPick> IsTakenFromRightCompartment(CompartmentPick compartmentPick)
+        public async Task<CompartmentPick> IsTakenFromExpectedCompartment(int portId, int expectedCompartmentId)
         {
-            var pick = await _compartmentPickRepository.Get(x => x.PortId == compartmentPick.PortId && x.CompartmentId == compartmentPick.CompartmentId && x.CreationTimestamp.AddSeconds(10) >= DateTime.Now);
+            int maxSecondsToWait = Convert.ToInt32(_configuration["maxSecondsToWait"]);
+            var pick = await _compartmentPickRepository.Get(x => x.PortId == portId && x.CompartmentId == expectedCompartmentId && x.CreationTimestamp.AddSeconds(maxSecondsToWait) >= DateTime.Now);
             return pick;
         }
     }

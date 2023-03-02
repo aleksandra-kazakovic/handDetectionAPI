@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "TsHy5JzbI9iFnaIJ88FKNrBjMfqmJ4NJIgN+q5bIp1JZh9m0GnHKrBEmgT3DcksOTf07NYG3O4w7kBVgF6r4Mw==",
+  "dgSpecHash": "vXI/nBwOphNxw6y0bffjSgX2QYBomkKILDnrU0iSDribstggdL6fTzzqhxBWIMIwJNEsj7PJNLSgDK6UPQwLgw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\akazakovic\\Downloads\\Recognition-POC-Api\\POCApi\\POCApi.Core\\POCApi.Core.csproj",
+  "projectFilePath": "C:\\Users\\akazakovic\\Downloads\\RecognitionApi\\POCApi.Core\\POCApi.Core.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\akazakovic\\.nuget\\packages\\microsoft.aspnetcore.authentication.abstractions\\2.2.0\\microsoft.aspnetcore.authentication.abstractions.2.2.0.nupkg.sha512",
     "C:\\Users\\akazakovic\\.nuget\\packages\\microsoft.aspnetcore.authentication.core\\2.2.0\\microsoft.aspnetcore.authentication.core.2.2.0.nupkg.sha512",

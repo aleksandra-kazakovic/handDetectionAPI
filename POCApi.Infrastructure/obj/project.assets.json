@@ -8646,11 +8646,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\akazakovic\\Downloads\\Recognition-POC-Api\\POCApi\\POCApi.Infrastructure\\POCApi.Infrastructure.csproj",
+      "projectUniqueName": "C:\\Users\\akazakovic\\Downloads\\RecognitionApi\\POCApi.Infrastructure\\POCApi.Infrastructure.csproj",
       "projectName": "POCApi.Infrastructure",
-      "projectPath": "C:\\Users\\akazakovic\\Downloads\\Recognition-POC-Api\\POCApi\\POCApi.Infrastructure\\POCApi.Infrastructure.csproj",
+      "projectPath": "C:\\Users\\akazakovic\\Downloads\\RecognitionApi\\POCApi.Infrastructure\\POCApi.Infrastructure.csproj",
       "packagesPath": "C:\\Users\\akazakovic\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\akazakovic\\Downloads\\Recognition-POC-Api\\POCApi\\POCApi.Infrastructure\\obj\\",
+      "outputPath": "C:\\Users\\akazakovic\\Downloads\\RecognitionApi\\POCApi.Infrastructure\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\akazakovic\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -8667,8 +8667,8 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "projectReferences": {
-            "C:\\Users\\akazakovic\\Downloads\\Recognition-POC-Api\\POCApi\\POCApi.Core\\POCApi.Core.csproj": {
-              "projectPath": "C:\\Users\\akazakovic\\Downloads\\Recognition-POC-Api\\POCApi\\POCApi.Core\\POCApi.Core.csproj"
+            "C:\\Users\\akazakovic\\Downloads\\RecognitionApi\\POCApi.Core\\POCApi.Core.csproj": {
+              "projectPath": "C:\\Users\\akazakovic\\Downloads\\RecognitionApi\\POCApi.Core\\POCApi.Core.csproj"
             }
           }
         }

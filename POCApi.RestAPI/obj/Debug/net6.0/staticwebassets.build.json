@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "qdTpW0ICNRFeKWc9vzWujdumdeHzYftERlA8tY+PU6o=",
+  "Source": "POCApi.RestAPI",
+  "BasePath": "_content/POCApi.RestAPI",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

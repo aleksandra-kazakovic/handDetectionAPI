@@ -11,6 +11,6 @@ namespace POCApi.Core.Interfaces.IServices
     public interface ICompartmentPickService : IBaseService<CompartmentPick>
     {
         public Task<CompartmentPick> GetLastPickByPortId(int portId);
-        public Task<CompartmentPick> IsTakenFromRightCompartment(CompartmentPick compartmentPick);
+        public Task<CompartmentPick> IsTakenFromExpectedCompartment(int portId, int expectedCompartmentId);
     }
 }
